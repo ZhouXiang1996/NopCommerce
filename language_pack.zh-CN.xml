@@ -3,6 +3,9 @@
     <LocaleResource Name="Account.AccountActivation">
         <Value>激活帐户</Value>
     </LocaleResource>
+    <LocaleResource Name="Account.AccountActivation">
+        <Value>激活帐户</Value>
+    </LocaleResource>
     <LocaleResource Name="Account.AccountActivation.Activated">
         <Value>您的帐户已激活</Value>
     </LocaleResource>
