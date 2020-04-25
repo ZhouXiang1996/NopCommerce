@@ -18084,5 +18084,7 @@
     <LocaleResource Name="Wishlist.UpdateCart">
         <Value>更新</Value>
     </LocaleResource>
-
+        <LocaleResource Name="Wishlist.UpdateCart">
+        <Value>周向学习</Value>
+    </LocaleResource>
 </Language>
