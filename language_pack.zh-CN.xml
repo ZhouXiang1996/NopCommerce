@@ -18084,10 +18084,5 @@
     <LocaleResource Name="Wishlist.UpdateCart">
         <Value>更新</Value>
     </LocaleResource>
-    <LocaleResource Name="Wishlist.WishlistOf">
-        <Value>收藏夹{0}</Value>
-    </LocaleResource>
-    <LocaleResource Name="Wishlist.YourWishlistURL">
-        <Value>我的收藏夹地址</Value>
-    </LocaleResource>
+
 </Language>
